@@ -1,4 +1,4 @@
-### WIP | THIS IS A PROOF OF CONCEPT, NOT THE FULL REPO |Not working yet | Not tested | Not ready for production | Not ready for use
+### Dont use this, after research, the concept is flawed
 
 # Preference Matcher
 
